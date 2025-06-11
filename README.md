@@ -38,4 +38,10 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [N
+Este proyecto está bajo la Licencia Jainer Junior Polo Silvera. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu correo electrónico] o en mi [perfil de GitHub].
+
+
