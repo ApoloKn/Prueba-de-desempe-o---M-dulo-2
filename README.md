@@ -1,23 +1,13 @@
 # Prueba-de-desempe-o---M-dulo-2
 prueba de desempeño Modulo2 HTML &amp; CSS
-¡Claro! Para crear un archivo README para tu página, necesitaré algunos detalles sobre ella. Sin embargo, aquí tienes un ejemplo genérico que puedes personalizar según tus necesidades:
 
-```markdown
 # Nombre de tu Página
 
-¡Bienvenido a [Nombre de tu Página]! Esta página está diseñada para [propósito de la página, por ejemplo, "proporcionar información sobre tecnología", "mostrar mi portfolio", etc.].
-
-## Características
-
-- **Descripción breve de la característica 1**: Detalles sobre esta característica.
-- **Descripción breve de la característica 2**: Detalles sobre esta característica.
-- **Descripción breve de la característica 3**: Detalles sobre esta característica.
+¡Bienvenido a GamerShop! Esta página está diseñada para la compra de juegos, software, componentes de computadora mas que todo para el ambito gamer.
 
 ## Tecnologías Utilizadas
 
 - **HTML/CSS**: Para la estructura y el diseño de la página.
-- **JavaScript**: Para la interactividad y funcionalidades dinámicas.
-- **[Otras tecnologías]**: Especifica cualquier otra tecnología que hayas utilizado.
 
 ## Instalación
 
