@@ -32,6 +32,6 @@ Este proyecto está bajo la Licencia Jainer Junior Polo Silvera.
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu correo electrónico] o en mi [perfil de GitHub].
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de polosilverajainer@hotmail.com o en mi @ApoloKn.
 
 
