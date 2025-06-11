@@ -26,19 +26,9 @@ Explica cómo los usuarios pueden interactuar con tu página. Por ejemplo:
 2. Explora las diferentes secciones para encontrar la información que necesitas.
 3. Utiliza el formulario de contacto para enviar tus consultas.
 
-## Contribución
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama para tu nueva característica: `git checkout -b feature/nueva-caracteristica`
-3. Realiza tus cambios y haz commit: `git commit -m 'Añadir nueva característica'`
-4. Haz push a la rama: `git push origin feature/nueva-caracteristica`
-5. Abre una Pull Request.
-
 ## Licencia
 
-Este proyecto está bajo la Licencia Jainer Junior Polo Silvera. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia Jainer Junior Polo Silvera.
 
 ## Contacto
 
